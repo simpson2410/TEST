@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Code\Customer\Event\Event\Website\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-01-12T12:45:39.3253939Z;True|2022-01-12T19:41:07.7912071+07:00;True|2022-01-03T15:58:54.3528316+07:00;True|2022-01-03T15:58:29.8485703+07:00;True|2022-01-03T14:57:56.2507679+07:00;True|2022-01-03T14:52:11.8052885+07:00;True|2022-01-01T08:51:49.1209042+07:00;True|2021-12-31T20:23:13.4812026+07:00;True|2021-12-31T09:43:06.8412611+07:00;True|2021-12-30T16:23:48.4291165+07:00;True|2021-12-29T19:56:22.5226543+07:00;True|2021-11-22T12:30:40.0264006+07:00;True|2021-11-21T19:41:31.4013165+07:00;True|2021-11-20T17:20:57.4446567+07:00;True|2021-11-20T14:22:27.7546968+07:00;True|2021-11-20T09:44:14.3630638+07:00;True|2021-11-20T09:34:38.7017608+07:00;</History>
+  </PropertyGroup>
+</Project>
